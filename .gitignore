@@ -1,0 +1,10 @@
+db.sqlite3
+/contacts/migrations
+/contacts/__pycache__
+/accounts/migrations
+/accounts/__pycache__
+/listings/migrations
+/listings/__pycache__
+/lpre/__pycache__
+/media
+/static
